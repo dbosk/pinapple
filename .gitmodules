@@ -1,0 +1,3 @@
+[submodule "docs/security"]
+	path = docs/security
+	url = https://github.com/dbosk/pinapple-security.git
